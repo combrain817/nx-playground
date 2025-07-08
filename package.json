@@ -5,7 +5,9 @@
   "scripts": {},
   "private": true,
   "devDependencies": {
+    "@nestjs/schematics": "^11.0.0",
     "@nx/js": "21.2.2",
+    "@nx/nest": "^21.2.2",
     "@nx/react": "^21.2.2",
     "@swc-node/register": "~1.9.1",
     "@swc/core": "~1.5.7",
